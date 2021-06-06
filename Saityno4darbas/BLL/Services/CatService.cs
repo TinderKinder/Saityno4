@@ -21,7 +21,6 @@ namespace Saityno4darbas.BLL.Services
         {
             this.context.Entry(cat).State = EntityState.Modified;
             await this.context.SaveChangesAsync();
-            throw new System.NotImplementedException();
         }
 
         //istrina kates pagal Id

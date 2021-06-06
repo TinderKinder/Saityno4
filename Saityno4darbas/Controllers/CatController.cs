@@ -25,7 +25,8 @@ namespace Saityno4darbas.Controllers
             this.catService = catService;
             this.mapper = mapper;
         }
-
+        
+        //Ideda kates informacija i duomenu baze
         [HttpPost]
         public async Task<IActionResult> AddAsync([FromBody] CatDto catDto)
         {
@@ -39,24 +40,8 @@ namespace Saityno4darbas.Controllers
             return Ok(cat);
         }
         
-     /*   [HttpGet("{id:int}")]
-        public async Task<IActionResult<CatId>> GetId(int id)
-        {
-            try
-            {
-                var result = await catService.GetId(id);
-
-                if (result == null) return NotFound();
-
-                return result;
-            }
-            catch (Exception)
-            {
-                return;
-            }
-        }
-        */
-    [HttpDelete("{id}")]
+        //Istrina issaugota informacija duomenu bazeje is API
+        [HttpDelete("{id}")]
      public async Task<IActionResult> Delete(int id)
      {
          var catToDelete = await this.catService.GetAsync(id);
@@ -68,8 +53,8 @@ namespace Saityno4darbas.Controllers
          return NoContent();
 
      }
-        
-        [HttpGet]
+        //gauna is interneto CatAPI informacija
+        [HttpGet("CatsFromAPI")]
         public async Task<IActionResult> Get()
         {
             var client = new HttpClient();
@@ -86,6 +71,26 @@ namespace Saityno4darbas.Controllers
             }
 
             return Ok(cats);
+        }
+        //gauna is cat asmenines db visa informacija
+        [HttpGet()]
+        public async Task<IEnumerable<Cat>> GetCats()
+        {
+            return await this.catService.Get();
+        }
+        
+        //negali nieko ideti nes isspausdina visus
+        [HttpPut]
+        public async Task<ActionResult> IdetiKate(int id, [FromBody] Cat cat)
+        {
+            if (id != cat.Id)
+            {
+                return BadRequest();
+            }
+
+            await this.catService.Update(cat);
+
+            return Ok();
         }
     }
 }
