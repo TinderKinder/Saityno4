@@ -25,7 +25,7 @@ namespace Saityno4darbas.Controllers
             this.catService = catService;
             this.mapper = mapper;
         }
-        
+
         [HttpPost]
         public async Task<IActionResult> AddAsync([FromBody] CatDto catDto)
         {
@@ -39,24 +39,35 @@ namespace Saityno4darbas.Controllers
             return Ok(cat);
         }
         
-        [HttpGet("id")]
-        public async Task<IActionResult> GetById([FromRoute]int id)
+     /*   [HttpGet("{id:int}")]
+        public async Task<IActionResult<CatId>> GetId(int id)
         {
-            var client = new HttpClient();
-            
-            var url = "https://api.thecatapi.com/v1/images/search";
-            
-            var cats = new List<CatResponse>();
-            
-            var response = await client.GetAsync(url);
-            
-            if (response.IsSuccessStatusCode)
+            try
             {
-                cats = await JsonSerializer.DeserializeAsync<List<CatResponse>>(await response.Content.ReadAsStreamAsync());
-            }
+                var result = await catService.GetId(id);
 
-            return Ok(cats);
+                if (result == null) return NotFound();
+
+                return result;
+            }
+            catch (Exception)
+            {
+                return;
+            }
         }
+        */
+    [HttpDelete("{id}")]
+     public async Task<IActionResult> Delete(int id)
+     {
+         var catToDelete = await this.catService.GetAsync(id);
+
+         if (catToDelete == null)
+             return NotFound();
+
+         await this.catService.Delete(catToDelete.Id);
+         return NoContent();
+
+     }
         
         [HttpGet]
         public async Task<IActionResult> Get()
