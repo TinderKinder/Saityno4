@@ -10,10 +10,10 @@ namespace Saityno4darbas.BLL.Services
         
         Task<int> AddAsync(Cat cat);
 
-        Task<IEnumerable<Cat>> Get();
+        Task<List<Cat>> GetAsync();
         
-        Task Update(Cat cat);
+        Task UpdateAsync(int id, Cat cat);
 
-        Task Delete(int id);
+        Task DeleteAsync(int id);
     }
 }

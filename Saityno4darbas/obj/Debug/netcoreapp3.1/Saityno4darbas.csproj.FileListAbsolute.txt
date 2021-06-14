@@ -1,0 +1,126 @@
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.exe
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.deps.json
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.runtimeconfig.json
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.runtimeconfig.dev.json
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.pdb
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.csprojAssemblyReference.cache
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.AssemblyInfoInputs.cache
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.AssemblyInfo.cs
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.csproj.CoreCompileInputs.cache
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.MvcApplicationPartsAssemblyInfo.cs
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.MvcApplicationPartsAssemblyInfo.cache
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\staticwebassets\Saityno4darbas.StaticWebAssets.Manifest.cache
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\staticwebassets\Saityno4darbas.StaticWebAssets.xml
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\scopedcss\bundle\Saityno4darbas.styles.css
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.RazorTargetAssemblyInfo.cache
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.csproj.CopyComplete
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.dll
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.pdb
+D:\Saitynas\projektas\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.genruntimeconfig.cache
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.exe
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.deps.json
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.runtimeconfig.json
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.runtimeconfig.dev.json
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Saityno4darbas.pdb
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.csprojAssemblyReference.cache
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.AssemblyInfoInputs.cache
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.AssemblyInfo.cs
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\staticwebassets\Saityno4darbas.StaticWebAssets.Manifest.cache
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\staticwebassets\Saityno4darbas.StaticWebAssets.xml
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\scopedcss\bundle\Saityno4darbas.styles.css
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.RazorTargetAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.csproj.CopyComplete
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.dll
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.pdb
+C:\Users\Aurimas\Desktop\VIKO 2 kursas\2 kursas\2 semestras\Saityno paslaugos - G. Dmitrijev - Moodle\Atsiskaitymai\Praktinis\Saityno4darbas\Saityno4darbas\obj\Debug\netcoreapp3.1\Saityno4darbas.genruntimeconfig.cache

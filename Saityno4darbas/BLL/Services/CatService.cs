@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
@@ -17,14 +18,25 @@ namespace Saityno4darbas.BLL.Services
             this.context = context;
         }
         //atnaujini duomenu bazeje
-        public async Task Update(Cat cat)
+        public async Task UpdateAsync(int id, Cat cat)
         {
-            this.context.Entry(cat).State = EntityState.Modified;
+            var dbEntry = await this.context.Cats.FindAsync(id);
+
+            if (dbEntry == null)
+            {
+                throw new Exception("Nes mes nemokam kodint ^^.");
+            }
+
+            dbEntry.Height = cat.Height;
+            dbEntry.Url = cat.Url;
+            dbEntry.Width = cat.Width;
+            dbEntry.CatId = cat.CatId;
+            
             await this.context.SaveChangesAsync();
         }
 
         //istrina kates pagal Id
-        public async Task Delete(int id)
+        public async Task DeleteAsync(int id)
         {
             var catToDelete = await context.Cats.FindAsync(id);
 
@@ -52,7 +64,7 @@ namespace Saityno4darbas.BLL.Services
         }
         
         //gauna visas kates issaugotas duomenu bazeje
-        public async Task<IEnumerable<Cat>> Get()
+        public async Task<List<Cat>> GetAsync()
         {
             return await this.context.Cats.ToListAsync();
         }
